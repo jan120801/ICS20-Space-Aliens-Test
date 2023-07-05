@@ -1,7 +1,7 @@
 name: GitHub's Super Linter
 on: push
 
-jobs
+jobs:
   run-linters:
     name: GitHub's Super Linter
     runs-on: windows
